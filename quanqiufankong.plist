@@ -13,22 +13,6 @@
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/ObjClan/plist/master/quanqiufankong.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://go.com/Icon@2x.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://go.com/Icon.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
